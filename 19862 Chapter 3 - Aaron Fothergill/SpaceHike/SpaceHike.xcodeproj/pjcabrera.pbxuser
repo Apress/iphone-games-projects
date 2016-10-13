@@ -1,0 +1,279 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SpaceHikeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 2964}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 406}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpaceHikeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {599, 17176}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 503}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceHike */ = {
+		activeExec = 0;
+		executables = (
+			9DD321B00F587B2200D954FD /* SpaceHike */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 701}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9DD321B00F587B2200D954FD /* SpaceHike */;
+		activeSDKPreference = iphonesimulator2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceHike */;
+		codeSenseManager = 9DD321B90F587B2500D954FD /* Code sense */;
+		executables = (
+			9DD321B00F587B2200D954FD /* SpaceHike */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					421,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265938027;
+			PBXWorkspaceStateSaveDate = 265938027;
+		};
+		perUserProjectItems = {
+			9D2E00C20F589174004DE8D2 /* PBXTextBookmark */ = 9D2E00C20F589174004DE8D2 /* PBXTextBookmark */;
+			9DA76FBE0F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FBE0F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FBF0F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FBF0F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FC10F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FC10F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FC30F58B3F8007FF1FB /* PlistBookmark */ = 9DA76FC30F58B3F8007FF1FB /* PlistBookmark */;
+			9DA76FC40F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FC40F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FC50F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FC50F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FC70F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FC70F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA76FC80F58B3F8007FF1FB /* PBXTextBookmark */ = 9DA76FC80F58B3F8007FF1FB /* PBXTextBookmark */;
+			9DA8F8630F89883E00D54517 /* PBXTextBookmark */ = 9DA8F8630F89883E00D54517 /* PBXTextBookmark */;
+			9DD2BED30FD9E4AA00FEC5CD /* PBXTextBookmark */ = 9DD2BED30FD9E4AA00FEC5CD /* PBXTextBookmark */;
+			9DD2BED40FD9E4AA00FEC5CD /* PlistBookmark */ = 9DD2BED40FD9E4AA00FEC5CD /* PlistBookmark */;
+			9DD2BED50FD9E4AA00FEC5CD /* PBXTextBookmark */ = 9DD2BED50FD9E4AA00FEC5CD /* PBXTextBookmark */;
+			9DD2BED60FD9E4AA00FEC5CD /* PlistBookmark */ = 9DD2BED60FD9E4AA00FEC5CD /* PlistBookmark */;
+		};
+		sourceControlManager = 9DD321B80F587B2500D954FD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	667869C50EF6AEED0063E943 /* Texture2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 931}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+	667869C60EF6AEED0063E943 /* Texture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 7239}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{7032, 473}";
+		};
+	};
+	9D2E00C20F589174004DE8D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceHikeAppDelegate.m */;
+		name = "SpaceHikeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	9DA76FBE0F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667869C50EF6AEED0063E943 /* Texture2D.h */;
+		name = "Texture2D.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	9DA76FBF0F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 0;
+	};
+	9DA76FC10F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpaceHikeAppDelegate.h */;
+		name = "SpaceHikeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	9DA76FC30F58B3F8007FF1FB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/Aaron Fothergill/19682fothergill1d/SpaceHike/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	9DA76FC40F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667869C60EF6AEED0063E943 /* Texture2D.m */;
+		name = "Texture2D.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	9DA76FC50F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667869C50EF6AEED0063E943 /* Texture2D.h */;
+		name = "Texture2D.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	9DA76FC70F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpaceHikeAppDelegate.h */;
+		name = "SpaceHikeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 1976;
+	};
+	9DA76FC80F58B3F8007FF1FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 0;
+	};
+	9DA8F8630F89883E00D54517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667869C60EF6AEED0063E943 /* Texture2D.m */;
+		name = "Texture2D.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 7032;
+	};
+	9DD2BED30FD9E4AA00FEC5CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceHikeAppDelegate.m */;
+		name = "SpaceHikeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	9DD2BED40FD9E4AA00FEC5CD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/code/19862 Aaron Fothergill/SpaceHike/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	9DD2BED50FD9E4AA00FEC5CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceHikeAppDelegate.m */;
+		name = "SpaceHikeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	9DD2BED60FD9E4AA00FEC5CD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/code/19862 Aaron Fothergill/SpaceHike/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	9DD321B00F587B2200D954FD /* SpaceHike */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceHike;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	9DD321B80F587B2500D954FD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9DD321B90F587B2500D954FD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

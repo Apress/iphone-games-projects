@@ -1,0 +1,268 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PhysicsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 440}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 460}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PhysicsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 1197}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Physics */ = {
+		activeExec = 0;
+		executables = (
+			9DA8F8780F89888E00D54517 /* Physics */,
+		);
+	};
+	2771511C0F4A50290042F689 /* UnixTime.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 969}}";
+			sepNavSelRange = "{1125, 7}";
+			sepNavVisRange = "{490, 1035}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1372, 5567}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{881, 900}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9DA8F8780F89888E00D54517 /* Physics */;
+		activeSDKPreference = iphonesimulator2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Physics */;
+		codeSenseManager = 9DA8F8840F8988AE00D54517 /* Code sense */;
+		executables = (
+			9DA8F8780F89888E00D54517 /* Physics */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					322,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265938177;
+			PBXWorkspaceStateSaveDate = 265938177;
+		};
+		perUserProjectItems = {
+			9D19765F0F8D0427005D4FE4 /* PBXTextBookmark */ = 9D19765F0F8D0427005D4FE4 /* PBXTextBookmark */;
+			9D4B0B4A0F89A68F009006A7 /* PBXTextBookmark */ = 9D4B0B4A0F89A68F009006A7 /* PBXTextBookmark */;
+			9D4B0B4B0F89A68F009006A7 /* PBXTextBookmark */ = 9D4B0B4B0F89A68F009006A7 /* PBXTextBookmark */;
+			9D4B0B4D0F89A68F009006A7 /* PBXTextBookmark */ = 9D4B0B4D0F89A68F009006A7 /* PBXTextBookmark */;
+			9D4B0B510F89A68F009006A7 /* PBXTextBookmark */ = 9D4B0B510F89A68F009006A7 /* PBXTextBookmark */;
+			9DA8F8890F89897000D54517 /* PBXTextBookmark */ = 9DA8F8890F89897000D54517 /* PBXTextBookmark */;
+			9DA8F88C0F89897000D54517 /* PlistBookmark */ = 9DA8F88C0F89897000D54517 /* PlistBookmark */;
+			9DA8F88D0F89897000D54517 /* PBXTextBookmark */ = 9DA8F88D0F89897000D54517 /* PBXTextBookmark */;
+			9DA8F88E0F89897000D54517 /* PBXTextBookmark */ = 9DA8F88E0F89897000D54517 /* PBXTextBookmark */;
+			9DD2BEE60FD9E52A00FEC5CD /* PBXTextBookmark */ = 9DD2BEE60FD9E52A00FEC5CD /* PBXTextBookmark */;
+			9DD2BEE70FD9E52A00FEC5CD /* PlistBookmark */ = 9DD2BEE70FD9E52A00FEC5CD /* PlistBookmark */;
+			9DD2BEE80FD9E52A00FEC5CD /* PBXTextBookmark */ = 9DD2BEE80FD9E52A00FEC5CD /* PBXTextBookmark */;
+			9DD2BEE90FD9E52A00FEC5CD /* PlistBookmark */ = 9DD2BEE90FD9E52A00FEC5CD /* PlistBookmark */;
+		};
+		sourceControlManager = 9DA8F8830F8988AE00D54517 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 440}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	9D19765F0F8D0427005D4FE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 900;
+		vrLoc = 881;
+	};
+	9D4B0B4A0F89A68F009006A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhysicsAppDelegate.m */;
+		name = "PhysicsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	9D4B0B4B0F89A68F009006A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PhysicsAppDelegate.h */;
+		name = "PhysicsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 0;
+	};
+	9D4B0B4D0F89A68F009006A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 0;
+	};
+	9D4B0B510F89A68F009006A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PhysicsAppDelegate.h */;
+		name = "PhysicsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 0;
+	};
+	9DA8F8780F89888E00D54517 /* Physics */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Physics;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	9DA8F8830F8988AE00D54517 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9DA8F8840F8988AE00D54517 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9DA8F8890F89897000D54517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	9DA8F88C0F89897000D54517 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/code/19682 Mike Kasprzak/Physics/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	9DA8F88D0F89897000D54517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	9DA8F88E0F89897000D54517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhysicsAppDelegate.m */;
+		name = "PhysicsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	9DD2BEE60FD9E52A00FEC5CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2771511C0F4A50290042F689 /* UnixTime.c */;
+		name = "UnixTime.c: 29";
+		rLen = 7;
+		rLoc = 1125;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 490;
+	};
+	9DD2BEE70FD9E52A00FEC5CD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/code/19682 Chapter 6 - Mike Kasprzak/Physics/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	9DD2BEE80FD9E52A00FEC5CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2771511C0F4A50290042F689 /* UnixTime.c */;
+		name = "UnixTime.c: 29";
+		rLen = 7;
+		rLoc = 1125;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 490;
+	};
+	9DD2BEE90FD9E52A00FEC5CD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pjcabrera/Documents/writing gigs/apress/iPhone Games Projects/code/19682 Chapter 6 - Mike Kasprzak/Physics/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
